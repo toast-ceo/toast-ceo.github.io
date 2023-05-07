@@ -53383,7 +53383,7 @@ E(a){var s,r,q,p,o,n,m,l,k,j,i,h,g=null,f="Gothic",e=t.w,d=a.H(e).f,c=a.H(e).f.a
 e=$.iM
 s=$.hE
 s.toString
-d=A.ha("assets/black-white_1.png",d.a.b*0.66,c*0.4)
+d=A.ha("pic/black-white_1.png",d.a.b*0.66,c*0.4)
 r=$.F3
 r.toString
 q=t.p
@@ -53409,7 +53409,7 @@ E(a){var s,r,q,p,o,n,m,l,k=null,j=a.H(t.w).f.a.b,i=$.iM
 i.toString
 s=$.F2
 s.toString
-r=A.ha("assets/black-white_1.png",j*0.36,k)
+r=A.ha("pic/black-white_1.png",j*0.36,k)
 q=A.bT(k,j*0.03,k)
 p=$.hE
 p.toString
@@ -53422,7 +53422,7 @@ return A.bp(k,new A.cb(i,A.d3(A.a([s,r,q,B.k1,p,o,n,m,l],t.p),B.ah,B.w),k),k,k,k
 A.yt.prototype={
 E(a){var s,r,q,p,o,n,m,l,k=null,j=a.H(t.w).f.a.b,i=$.a8p,h=$.F2
 h.toString
-s=A.ha("assets/black-white_1.png",j*0.36,k)
+s=A.ha("pic/black-white_1.png",j*0.36,k)
 r=A.bT(k,j*0.03,k)
 q=A.kN(A.b3("\ub9d0\uc500 \uc704\uc5d0 \uc138\uc6b4 \uad50\ud68c",$.N8.uf("Gothic",$.bg*7*0.77+7),k,k),k,k)
 p=$.hE
@@ -53456,7 +53456,7 @@ A.BB.prototype={
 E(a){return B.EB}}
 A.Bz.prototype={
 E(a){var s,r,q,p,o,n,m,l,k,j=null,i="Montserrat",h="The Word Church",g="\ub9d0\uc500 \uc704\uc5d0 \uc138\uc6b4 \uad50\ud68c",f=a.H(t.w).f.a,e=f.b,d=$.iM,c=f.a>1200,b=c?80:140
-b=A.u4(b,A.CL(new A.js(A.ha("assets/black-white.png",c?e*0.75:e*0.65,j),B.b3,B.ek,B.i,j),0.9),j,j,j,0,j,j)
+b=A.u4(b,A.CL(new A.js(A.ha("pic/black-white.png",c?e*0.75:e*0.65,j),B.b3,B.ek,B.i,j),0.9),j,j,j,0,j,j)
 s=$.bg
 r=t.p
 q=A.eX(A.a([A.b3(" WELCOME TO The WORD CHURCH! ",c?$.N7.fN(i):$.mS.fN(i),j,j)],r),B.w,B.b9)
@@ -53482,7 +53482,7 @@ A.BA.prototype={
 E(a){var s,r,q,p,o,n,m,l=null,k=a.H(t.w).f,j=$.iM,i=$.hE
 i.toString
 s=$.bg
-r=A.kN(A.CL(A.ha("assets/black-white.png",s*120*0.77+120,l),0.9),l,l)
+r=A.kN(A.CL(A.ha("pic/black-white.png",s*120*0.77+120,l),0.9),l,l)
 q=$.iN
 q.toString
 s=A.b3("The Word Church",$.yE.UD("Agustina",s*14*0.77+14,1),l,l)
@@ -53497,7 +53497,7 @@ A.S8.prototype={
 $0(){return A.mK(A.fJ("https://naver.me/GMvhHzfA",0,null))},
 $S:0}
 A.BC.prototype={
-E(a){var s,r,q=null,p="Montserrat",o=a.H(t.w).f.a,n=o.b,m=o.a>840?A.u4(210,A.CL(new A.js(A.ha("assets/black-white.png",n*0.55,q),B.b3,B.ek,B.i,q),0.9),q,q,q,10,q,q):A.bp(q,q,q,q,q,q,q,q),l=$.bg,k=t.p,j=A.eX(A.a([A.b3("WELCOME TO The WORD CHURCH! ",$.mS.fN(p),q,q)],k),B.w,B.b9),i=A.b3("The Word Church",$.a7p.du($.bg*16*0.77+16),q,q),h=A.b3("\ub9d0\uc500 \uc704\uc5d0 \uc138\uc6b4 \uad50\ud68c",$.aa8.uh($.bg*16*0.77+16,1),q,q),g=A.eX(A.a([A.b3(" Ephesians 2 : 20 ",$.mS.fN(p),q,q)],k),B.w,B.b9),f=$.iN
+E(a){var s,r,q=null,p="Montserrat",o=a.H(t.w).f.a,n=o.b,m=o.a>840?A.u4(210,A.CL(new A.js(A.ha("pic/black-white.png",n*0.55,q),B.b3,B.ek,B.i,q),0.9),q,q,q,10,q,q):A.bp(q,q,q,q,q,q,q,q),l=$.bg,k=t.p,j=A.eX(A.a([A.b3("WELCOME TO The WORD CHURCH! ",$.mS.fN(p),q,q)],k),B.w,B.b9),i=A.b3("The Word Church",$.a7p.du($.bg*16*0.77+16),q,q),h=A.b3("\ub9d0\uc500 \uc704\uc5d0 \uc138\uc6b4 \uad50\ud68c",$.aa8.uh($.bg*16*0.77+16,1),q,q),g=A.eX(A.a([A.b3(" Ephesians 2 : 20 ",$.mS.fN(p),q,q)],k),B.w,B.b9),f=$.iN
 f.toString
 s=A.lh(!1,q,!0,A.b3(" > \ucc3e\uc544\uc624\uc2dc\ub294 \uae38",$.mT.du($.bg*6*0.77+6),q,q),q,!0,q,q,q,q,q,q,q,q,q,new A.S9(),q,q,q,q)
 r=$.iN
@@ -53691,7 +53691,7 @@ o=A.b3("The Word Church \ub2f4\uc784\ubaa9\uc0ac \n& _of.church \ub300\ud45c",$.
 n=$.hE
 n.toString
 m=t.p
-return A.bp(l,A.d3(A.a([A.eX(A.a([r,A.l1(A.bp(l,A.d3(A.a([B.kp,p,o,n,A.b3(u.w,$.qq.jR("Gothic",B.c7),B.bg,l)],m),B.az,B.w),l,l,l,l,new A.aE(s,0,0,0),l),q),A.l1(A.ha("assets/colored.png",j*0.7,i*0.2),1)],m),B.w,B.aS)],m),B.ah,B.w),l,l,j*1.025,l,k,l)}}
+return A.bp(l,A.d3(A.a([A.eX(A.a([r,A.l1(A.bp(l,A.d3(A.a([B.kp,p,o,n,A.b3(u.w,$.qq.jR("Gothic",B.c7),B.bg,l)],m),B.az,B.w),l,l,l,l,new A.aE(s,0,0,0),l),q),A.l1(A.ha("pic/colored.png",j*0.7,i*0.2),1)],m),B.w,B.aS)],m),B.ah,B.w),l,l,j*1.025,l,k,l)}}
 A.CY.prototype={
 E(a){var s,r,q,p,o,n,m,l=null,k="Gothic",j=t.w,i=a.H(j).f,h=a.H(j).f.a.a
 j=$.a8p
@@ -53704,7 +53704,7 @@ q.toString
 q=A.b3("The Word Church \ub2f4\uc784\ubaa9\uc0ac \n& _of.church \ub300\ud45c",q.uf(k,A.dP(12)),l,l)
 p=$.hE
 p.toString
-o=A.kN(A.l1(A.ha("assets/colored.png",l,h*0.5),1),l,l)
+o=A.kN(A.l1(A.ha("pic/colored.png",l,h*0.5),1),l,l)
 n=$.qq
 n.toString
 m=t.p
@@ -53727,7 +53727,7 @@ l=g>900
 k=t.p
 p=A.l1(A.bp(j,A.d3(A.a([B.kp,s,o,n,A.b3(u.w,m.Dh("Gothic",l?A.dP(10):A.dP(8),B.c7),B.bg,j)],k),B.az,B.w),j,j,j,j,new A.aE(r,0,0,0),j),p)
 r=l?h*0.68:h*0.6
-return A.bp(j,A.d3(A.a([s,A.eX(A.a([q,p,A.l1(A.ha("assets/colored.png",r,l?g*0.28:g*0.2),1)],k),B.w,B.aS)],k),B.ah,B.w),j,j,h*1.025,j,i,j)}}
+return A.bp(j,A.d3(A.a([s,A.eX(A.a([q,p,A.l1(A.ha("pic/colored.png",r,l?g*0.28:g*0.2),1)],k),B.w,B.aS)],k),B.ah,B.w),j,j,h*1.025,j,i,j)}}
 A.qs.prototype={
 ad(){return new A.yG(B.j)}}
 A.yG.prototype={
@@ -53773,7 +53773,7 @@ A.UB.prototype={
 $0(){this.b.xl(0,this.a.d)},
 $S:0}
 A.Cy.prototype={
-E(a){var s=null,r="The Word Church",q="Agustina",p="assets/gapck.png",o=a.H(t.w).f.a,n=t.p,m=o.b
+E(a){var s=null,r="The Word Church",q="Agustina",p="pic/gapck.png",o=a.H(t.w).f.a,n=t.p,m=o.b
 return A.eX(o.a<1200?A.a([A.b3(r,$.mT.fN(q),s,s),A.b3(" ",$.mS,s,s),A.ha(p,m*0.055,s)],n):A.a([A.ha(p,m*0.07,s),A.b3(" ",$.N7,s,s),A.b3(r,$.aa7.fN(q),s,s)],n),B.w,B.b9)}}
 A.u6.prototype={
 ad(){return new A.Dg(B.j)}}
