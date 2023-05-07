@@ -4,9 +4,10 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "a29e8b22a08aa0274b027931eec216c4",
-"index.html": "23ed205c9f0e7ee096db8882bcca4999",
-"/": "23ed205c9f0e7ee096db8882bcca4999",
-"main.dart.js": "60937646fec87e1291a77735432efdf5",
+"index.html": "ba1dc45fceb51d5918c1588f1313174b",
+"/": "ba1dc45fceb51d5918c1588f1313174b",
+"main.dart.js": "17be05aa755b2b17de5149ab54e7c090",
+"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "favicon.png": "52af3e2341a39c196af578f9d67c2ace",
 "icons/Icon-192.png": "fddb20a3a22af26defdb62393c3a0a7a",
 "icons/Icon-512.png": "a3c585c7ca86894875845f97e3092492",
@@ -60,7 +61,11 @@ const RESOURCES = {
 "assets/assets/black-white.png": "80f372d367c123b938efda3173cb124c",
 "assets/assets/wordofchurch.png": "54adb9b57572a4e2111336e91c543c96",
 "assets/assets/black-white_1.png": "f9a8307d0bd8b2fde8dfbb2e80c5ad25",
-"assets/assets/gapck.png": "7188afc68b7f13165e83beb19cf652fc"
+"assets/assets/gapck.png": "7188afc68b7f13165e83beb19cf652fc",
+"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
+"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
+"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
+"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62"
 };
 
 // The application shell files that are downloaded before a service worker can
