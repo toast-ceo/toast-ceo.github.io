@@ -4,10 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "a29e8b22a08aa0274b027931eec216c4",
-"index.html": "2b8b2e18f628b9c25a04fc19168ce494",
-"/": "2b8b2e18f628b9c25a04fc19168ce494",
-"main.dart.js": "25f03e7de9d2f2d0b12bf39963c88e51",
-"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
+"index.html": "0bf2cb90bd870a75a424e0edfa57f499",
+"/": "0bf2cb90bd870a75a424e0edfa57f499",
+"main.dart.js": "2765269284bb0a2543e0136f8d3c25f6",
 "favicon.png": "52af3e2341a39c196af578f9d67c2ace",
 "icons/Icon-192.png": "fddb20a3a22af26defdb62393c3a0a7a",
 "icons/Icon-512.png": "a3c585c7ca86894875845f97e3092492",
@@ -60,11 +59,7 @@ const RESOURCES = {
 "assets/fonts/Gothic/GothicA1-Light.ttf": "8c47ceaef121e6229ed0cebe64d11dee",
 "assets/fonts/Gothic/GothicA1-Bold.ttf": "52f7cd17421900c6da27a0b08c82af33",
 "assets/fonts/Gothic/GothicA1-Medium.ttf": "465b59706f7e9f18729d92ea1b813d32",
-"assets/fonts/Gothic/GothicA1-SemiBold.ttf": "0b1aef2be46d737e07db61fa9eb509b3",
-"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
-"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
-"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
-"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62"
+"assets/fonts/Gothic/GothicA1-SemiBold.ttf": "0b1aef2be46d737e07db61fa9eb509b3"
 };
 
 // The application shell files that are downloaded before a service worker can
