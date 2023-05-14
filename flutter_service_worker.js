@@ -4,20 +4,15 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "a29e8b22a08aa0274b027931eec216c4",
-"index.html": "a24f3e6bc0ac9f78102c903794c2d290",
-"/": "a24f3e6bc0ac9f78102c903794c2d290",
-"main.dart.js": "fb3abaa5dea45aaa9516488275ddc9ad",
+"index.html": "5b98dba9ae00474a3c88e878f0929efd",
+"/": "5b98dba9ae00474a3c88e878f0929efd",
+"main.dart.js": "e93a652efc8138ecf972c976bd47a17d",
 "favicon.png": "52af3e2341a39c196af578f9d67c2ace",
 "icons/Icon-192.png": "fddb20a3a22af26defdb62393c3a0a7a",
 "icons/Icon-512.png": "a3c585c7ca86894875845f97e3092492",
 "manifest.json": "3421cd00e17d6f742428a18cbf45709d",
-"assets/AssetManifest.json": "0a3dbf6b24e15f46737a43490701ebf7",
+"assets/AssetManifest.json": "874fc46a71fb0fcafd4d675e73766a54",
 "assets/NOTICES": "a917e8b559dfe98ef6adad99868bdcf9",
-"assets/pic/colored.png": "c365fc8dd49b116ae83672c0fb1a5a83",
-"assets/pic/black-white.png": "80f372d367c123b938efda3173cb124c",
-"assets/pic/wordofchurch.png": "54adb9b57572a4e2111336e91c543c96",
-"assets/pic/black-white_1.png": "f9a8307d0bd8b2fde8dfbb2e80c5ad25",
-"assets/pic/gapck.png": "7188afc68b7f13165e83beb19cf652fc",
 "assets/FontManifest.json": "22be132defb4eacb0f5a03659945c6f0",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_AMS-Regular.ttf": "657a5353a553777e270827bd1630e467",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Script-Regular.ttf": "55d2dcd4778875a53ff09320a85a5296",
@@ -59,7 +54,12 @@ const RESOURCES = {
 "assets/fonts/Gothic/GothicA1-Light.ttf": "8c47ceaef121e6229ed0cebe64d11dee",
 "assets/fonts/Gothic/GothicA1-Bold.ttf": "52f7cd17421900c6da27a0b08c82af33",
 "assets/fonts/Gothic/GothicA1-Medium.ttf": "465b59706f7e9f18729d92ea1b813d32",
-"assets/fonts/Gothic/GothicA1-SemiBold.ttf": "0b1aef2be46d737e07db61fa9eb509b3"
+"assets/fonts/Gothic/GothicA1-SemiBold.ttf": "0b1aef2be46d737e07db61fa9eb509b3",
+"assets/assets/colored.png": "c365fc8dd49b116ae83672c0fb1a5a83",
+"assets/assets/black-white.png": "80f372d367c123b938efda3173cb124c",
+"assets/assets/wordofchurch.png": "54adb9b57572a4e2111336e91c543c96",
+"assets/assets/black-white_1.png": "f9a8307d0bd8b2fde8dfbb2e80c5ad25",
+"assets/assets/gapck.png": "7188afc68b7f13165e83beb19cf652fc"
 };
 
 // The application shell files that are downloaded before a service worker can
